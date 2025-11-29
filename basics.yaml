@@ -1,0 +1,15 @@
+---
+name: mohan
+age: 33
+work: true
+tasks:
+  - task1
+  - task2
+  - task3
+address:
+  street: post office street
+  mandal: bhamini
+  city: srikakulam
+  pin: 532455
+
+
